@@ -1,0 +1,14 @@
+{
+  "about": "关于",
+  "app_author": "Phrase",
+  "app_description": "专门针对F. Scott Fitzgerald的博客",
+  "app_name": "测试站点",
+  "articles": "最新文章",
+  "articles_published": "最新发布",
+  "articles_published_one": "{{count}} 篇文章",
+  "articles_published_other": "{{count}} 篇文章",
+  "footer": "© {{year}} |  使用<4>Gatsby</4>为 <8>Phrase Blog</8> 构建 | 内容来自<12>Wikipedia</12>",
+  "home": "主页",
+  "published": "发布日期 {{date}}",
+  "recent_writing": "最新写作"
+}
