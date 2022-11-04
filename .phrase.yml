@@ -3,7 +3,7 @@ phrase:
   project_id: 6e60aa367a312353e7d215da12072618
   push:
     sources:
-    - file: ./i18n/l10n/en
+    - file: ./i18n/l10n/en/translation.json
       params:
         file_format: simple_json
   pull:
