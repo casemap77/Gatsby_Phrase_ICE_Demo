@@ -1,14 +1,13 @@
 {
-  "about": "关于",
-  "app_author": "Phrase",
-  "app_description": "专门针对F. Scott Fitzgerald的博客",
-  "app_name": "测试站点",
+  "about": "关于我们",
+  "app_author": "短语",
+  "app_description": "献给F.Scott Fitzgerald的博客",
+  "app_name": "fslivre",
   "articles": "最新文章",
-  "articles_published": "最新发布",
-  "articles_published_one": "{{count}} 篇文章",
-  "articles_published_other": "{{count}} 篇文章",
-  "footer": "© {{year}} |  使用<4>Gatsby</4>为 <8>Phrase Blog</8> 构建 | 内容来自<12>Wikipedia</12>",
-  "home": "主页",
-  "published": "发布日期 {{date}}",
-  "recent_writing": "最新写作"
+  "articles_published_one": "{{count}}文章",
+  "articles_published_other": "{{count}}文章",
+  "footer": "© {{year}}| 用<4>盖茨比</4>建造的<8>短语博客</8>| 内容来自<12>维基百科</12>",
+  "home": "首页",
+  "published": "发布{{date}}",
+  "recent_writing": "最近的写作"
 }
