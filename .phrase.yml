@@ -1,6 +1,6 @@
 phrase:
-  access_token: 27426bdadaa0fb35d16089e958776763ffb93838882e173a2e7bf2692ffc46c6
-  project_id: 6e60aa367a312353e7d215da12072618
+  access_token: b7fc60cd08e349735c546d147186900a91ec509bf763e515ea531affb3cd4c29
+  project_id: dd47f37ec9ef96822eb0ebc163ebf349
   push:
     sources:
     - file: ./i18n/l10n/en/translation.json
