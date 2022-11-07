@@ -3,7 +3,7 @@
   "app_author": "フレーズ",
   "app_description": "F・スコット・フィッツジェラルドに捧げるブログ",
   "app_name": "スライヴ",
-  "articles": "最新記事",
+  "articles": "最新情報",
   "articles_published_one": "{{count}} 品物",
   "articles_published_other": "{{count}} 物品",
   "footer": "© {{year}}| <8>Phrase Blog</8> のために <4>Gatsby</4> を使用して構築されました。",

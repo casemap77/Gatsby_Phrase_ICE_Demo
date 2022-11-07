@@ -1,2 +1,13 @@
 {
+  "about": "Acerca de",
+  "app_author": "Frase",
+  "app_description": "Un blog dedicado a F. Scott Fitzgerald",
+  "app_name": "fslivre",
+  "articles": "Últimos artículos",
+  "articles_published_one": "{{count}} artículo",
+  "articles_published_other": "{{count}} artículos",
+  "footer": "© {{year}} | Construido con <4>Gatsby</4> para el <8>Blog de Frases</8> | Contenido de <12>Wikipedia</12>",
+  "home": "Inicio",
+  "published": "Publicado {{date}}",
+  "recent_writing": "Escritos recientes"
 }
